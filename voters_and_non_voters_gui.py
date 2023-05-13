@@ -1,4 +1,5 @@
 import tkinter as tk
+from voters_and_non_voters import *
 
 class myGUI:
     def __init__(self):
